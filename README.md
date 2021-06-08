@@ -13,20 +13,26 @@ Declarative mind mapping
 Grab latest sources:
 
 ```sh
-git clone https://github.com/vanHeemstraSystems/mindtree-headstart.git
+$ git clone https://github.com/vanHeemstraSystems/mindtree-headstart.git
+```
+
+Optionally, to not use certificates:
+
+```sh
+$ npm config set strict-ssl false
 ```
 
 Install dependencies
 
 ```sh
-cd mindtree
-npm install
+$ cd mindtree
+$ npm install
 ```
 
 Build
 
 ```sh
-npm run-script build
+$ npm run-script build
 ```
 
 ### Writing mind maps
