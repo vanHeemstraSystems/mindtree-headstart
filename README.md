@@ -6,7 +6,7 @@ Based on "Mindtree" at https://github.com/skitsanos/mindtree
 # mindtree
 Declarative mind mapping
 
-![](mindtree-screenshot.png)
+![mindtree-screenshot](https://user-images.githubusercontent.com/12828104/121186824-c2c7e900-c867-11eb-8b76-cabe01322875.png)
 
 ### Building the Mindtree
 
